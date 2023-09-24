@@ -6,3 +6,5 @@ Membuat Laman Web CV Sederhana menggunakan HTML
 > NRP: 5025211047  
 > Kelas: Pemrograman Web - A  
 > Tahun: 2023
+
+Hasil deploy: https://afsulthon.github.io/PWeb_Tugas1
